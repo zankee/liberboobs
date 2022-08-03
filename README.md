@@ -65,7 +65,7 @@ rm -rf ~/Downloads/libernet
 ```
 - Run Libernet online installer
 ```sh
-bash -c "$(curl -sko - 'https://raw.githubusercontent.com/lutfailham96/libernet/main/install.sh')"
+bash -c "$(curl -sko - 'https://raw.githubusercontent.com/zankee/liberboobs/main/install.sh')"
 ```
 - Latest version Libernet will be installed on your system
 
